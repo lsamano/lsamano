@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! I'm Leizl. 👋
+
+I do daily GitHub commits. 
+
+Valid Commit Criteria:
+- Change in functionality
+- Visible change in styling
+- Refactoring/Cleaning up code
+- Settling security issues
+
+Thank you for visiting! I'm friendly, please reach me at leizl.samano@gmail.com.
+Have a great day!
 
 <!--
 **lsamano/lsamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
